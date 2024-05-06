@@ -124,4 +124,4 @@ plt.show()
 
 
 # Result:
- Include your result here
+ Thus, we have successfully performed Data Visualization using matplot python library for the given datas.
